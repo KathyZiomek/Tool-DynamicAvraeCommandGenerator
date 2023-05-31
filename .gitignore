@@ -1,4 +1,4 @@
-./encounters/encounters/*
+./encounters/encounter*
 ./sources/5etools*
 *./sources/5etools.json
 *./sources/koboldPlus.json
