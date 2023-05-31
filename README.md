@@ -2,7 +2,7 @@
 
 Are you sick of writing Avrae commands for every session? Do you use 5eTools or Kobold+ to generate your encounters? Then this is the tool for you!
 
-This tool will take in a .json file with encounter information, and output the information into easy-to-copy .txt files.
+This tool will take in a .JSON file with encounter information, and output the information into easy-to-copy .txt files.
 
 This project uses bestiary files downloaded from 5eTools, and is used as hobby enrichment only.
 
@@ -23,7 +23,9 @@ This project uses bestiary files downloaded from 5eTools, and is used as hobby e
 
 ## How to Use
 
-To prepare your data for conversion to Avrae commands, please follow these steps:
+There is currently sample data in `./sources/5etools.json` and `./koboldPlus.json` that you can use to see what the output will look like (to test this tool using the sample data, skip down to the heading "Using the Tool").
+
+To prepare your own encounters for conversion to Avrae commands, please follow these steps:
 
 #### If Using 5eTools:
 
@@ -38,7 +40,8 @@ There are a few ways to download a JSON file with encounter information from 5eT
 
 Once you have downloaded a JSON file from 5eTools in one of the above methods:
 
-- Copy the contents of this file, and paste it into this project in the following file: `./sources/5etools.json`
+- Copy the _contents_ of this file, and paste it into this project in the following file: `./sources/5etools.json`
+- Make sure to erase any old data in the file before pasting your own data
 - Save and close this file
 
 #### If Using Kobold+
@@ -49,9 +52,12 @@ Once you have downloaded a JSON file from 5eTools in one of the above methods:
 - Open the browser console on Kobold+ (you can find this by pressing F12, and ensuring that "Console" is selected in the panel that just opened in your web browser)
 - Paste the code snippet, and press enter. This will copy your encounter information to your clipboard.
 - Paste this copied information into the project in the following file: `./sources/koboldPlus.json`
+- Make sure to erase any old data in the file before pasting your own data
 - Save and close this file
 
 Once your data source is ready, you can now use the tool!
+
+### Using the Tool
 
 To use this tool, please follow these steps:
 
