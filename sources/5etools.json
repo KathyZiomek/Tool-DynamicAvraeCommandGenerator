@@ -1,0 +1,65 @@
+{
+  "fileType": "encounter",
+  "siteVersion": "1.181.3",
+  "items": [
+    {
+      "h": "adult%20amethyst%20dragon_ftd",
+      "c": 1
+    },
+    {
+      "h": "adult%20blue%20dracolich_mm",
+      "c": 1
+    },
+    {
+      "h": "adult%20deep%20dragon_ftd",
+      "c": 1
+    },
+    {
+      "h": "adult%20kruthik_mpmm",
+      "c": 1
+    },
+    {
+      "h": "adult%20lunar%20dragon_bam",
+      "c": 1
+    },
+    {
+      "h": "adult%20oblex_mpmm",
+      "c": 1
+    },
+    {
+      "h": "adult%20moonstone%20dragon_ftd",
+      "c": 1
+    },
+    {
+      "h": "adult%20red%20dracolich_tce",
+      "c": 1
+    },
+    {
+      "h": "adult%20red%20dragon_mm",
+      "c": 1
+    },
+    {
+      "h": "adult%20solar%20dragon_bam",
+      "c": 1
+    }
+  ],
+  "sources": ["FTD", "MM", "MPMM", "BAM", "TCE"],
+  "name": "2",
+  "saveId": "b5a9c6ff-2e00-4fab-a13f-46ec2548babf",
+  "playersSimple": [
+    {
+      "count": 4,
+      "level": 1
+    }
+  ],
+  "isAdvanced": false,
+  "colsExtraAdvanced": [],
+  "playersAdvanced": [
+    {
+      "name": "",
+      "level": 1,
+      "extras": [],
+      "extraCols": []
+    }
+  ]
+}

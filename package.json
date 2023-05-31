@@ -1,0 +1,11 @@
+{
+  "name": "encounter-to-avrae-scripts",
+  "version": "1.0.0",
+  "description": "A project that takes in JSON from encounter builders, and outputs the Avrae commands for each encounter.",
+  "main": "generateEncounters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

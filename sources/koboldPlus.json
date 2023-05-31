@@ -1,0 +1,197 @@
+[
+  [
+    {
+      "monster": {
+        "name": "Gray Ooze",
+        "slug": "gray-ooze-hotdq-supplement-11-monster-manual-243-systems-reference-document-srd-338-12"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Gelatinous Cube",
+        "slug": "gelatinous-cube-monster-manual-242-systems-reference-document-srd-337-2"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Oblex Spawn",
+        "slug": "oblex-spawn-mordenkainens-tome-of-foes-217-14"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Oblex Spawn",
+        "slug": "oblex-spawn-mordenkainens-tome-of-foes-217-14"
+      },
+      "count": 2
+    },
+    {
+      "monster": {
+        "name": "Gray Ooze",
+        "slug": "gray-ooze-hotdq-supplement-11-monster-manual-243-systems-reference-document-srd-338-12"
+      },
+      "count": 4
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Oblex Spawn",
+        "slug": "oblex-spawn-mordenkainens-tome-of-foes-217-14"
+      },
+      "count": 2
+    },
+    {
+      "monster": {
+        "name": "Gray Ooze",
+        "slug": "gray-ooze-hotdq-supplement-11-monster-manual-243-systems-reference-document-srd-338-12"
+      },
+      "count": 4
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Leucrotta",
+        "slug": "leucrotta-tales-from-the-yawning-portal-239-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Sea Hag",
+        "slug": "sea-hag-monster-manual-179-princes-of-the-apocalypse-online-supplement-v10-31-systems-reference-document-srd-320-2"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Trapper",
+        "slug": "trapper-volos-guide-to-monsters-194-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Troglodyte Champion of Laogzed",
+        "slug": "troglodyte-champion-of-laogzed-out-of-the-abyss-229-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Merrenoloth",
+        "slug": "merrenoloth-mordenkainens-tome-of-foes-250-3"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Minotaur",
+        "slug": "minotaur-basic-rules-v1-35-monster-manual-223-systems-reference-document-srd-333-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Ogre Bolt Launcher",
+        "slug": "ogre-bolt-launcher-mordenkainens-tome-of-foes-220-2"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Duergar Mind Master",
+        "slug": "duergar-mind-master-mordenkainens-tome-of-foes-189-2"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Hook Horror",
+        "slug": "hook-horror-monster-manual-189-princes-of-the-apocalypse-online-supplement-v10-20-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Quaggoth Thonot",
+        "slug": "quaggoth-thonot-monster-manual-256-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Eternal Flame Priest",
+        "slug": "eternal-flame-priest-princes-of-the-apocalypse-200-3"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Water Weird",
+        "slug": "water-weird-monster-manual-299-princes-of-the-apocalypse-online-supplement-v10-36-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Sword Wraith Warrior",
+        "slug": "sword-wraith-warrior-mordenkainens-tome-of-foes-241-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Merrenoloth",
+        "slug": "merrenoloth-mordenkainens-tome-of-foes-250-3"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Quaggoth Thonot",
+        "slug": "quaggoth-thonot-monster-manual-256-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Green Hag",
+        "slug": "green-hag-monster-manual-177-systems-reference-document-srd-319-3"
+      },
+      "count": 1
+    },
+    {
+      "monster": {
+        "name": "Dolgaunt",
+        "slug": "dolgaunt-eberron-rising-from-the-last-war-290-3"
+      },
+      "count": 1
+    }
+  ],
+  [
+    {
+      "monster": {
+        "name": "Crab",
+        "slug": "crab-basic-rules-v1-15-monster-manual-320-systems-reference-document-srd-370-0"
+      },
+      "count": 14
+    }
+  ]
+]
