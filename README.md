@@ -23,7 +23,7 @@ This project uses bestiary files downloaded from 5eTools, and is used as hobby e
 
 ## How to Use
 
-There is currently sample data in `./sources/5etools.json` and `./koboldPlus.json` that you can use to see what the output will look like (to test this tool using the sample data, skip down to the heading "Using the Tool").
+There is currently sample data in `./sources/5etools.json` and `./sources/koboldPlus.json` that you can use to see what the output will look like (to test this tool using the sample data, skip down to the heading "Using the Tool").
 
 To prepare your own encounters for conversion to Avrae commands, please follow these steps:
 
