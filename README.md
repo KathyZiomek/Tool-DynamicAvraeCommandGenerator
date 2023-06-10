@@ -90,3 +90,7 @@ To use this tool, please follow these steps:
 - Change how files are exported to the `./encounters` folder
   - make sure existing files are deleted, OR a new parent folder is created for each export
 - Add legendary actions and lair actions support
+
+## Release Notes:
+
+- June 10, 2023 - Update - when exporting a pinned list that has a title, the title of the pinned list will now be used for the name of the generated encounter text file for better organization.

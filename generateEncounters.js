@@ -25,9 +25,9 @@ const generateEncounters = async () => {
 
   const identifiedSource = identifySource(encounterBuilder);
 
-  const userData = importUserData(identifiedSource);
+  const [userData, userDataEncounterNames] = importUserData(identifiedSource);
 
-  identifyEncounters(identifiedSource, userData, hiddenRolls);
+  identifyEncounters(userData, userDataEncounterNames, hiddenRolls);
 
   rl.close();
 };

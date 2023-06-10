@@ -1,13 +1,13 @@
 const fs = require("fs");
 
-const identifyEncounters = (identifiedSource, userData, hiddenRolls) => {
-  let encounter = 1;
+const identifyEncounters = (userData, userDataEncounterNames, hiddenRolls) => {
+  let encounter = 0;
 
   userData.forEach((data) => {
     let encounterText = "";
 
     encounterText += "******************************\n";
-    encounterText += `Encounter #${encounter}\n`;
+    encounterText += `${userDataEncounterNames[encounter]}\n`;
     encounterText += "******************************\n";
     encounterText += "Adding monsters to initiative:\n";
     encounterText += "******************************\n";
@@ -73,7 +73,10 @@ const identifyEncounters = (identifiedSource, userData, hiddenRolls) => {
       encounterText += "-----------------------------\n";
     });
 
-    fs.writeFileSync(`./encounters/encounter${encounter}.txt`, encounterText);
+    fs.writeFileSync(
+      `./encounters/${userDataEncounterNames[encounter]}.txt`,
+      encounterText
+    );
 
     encounter++;
   });
